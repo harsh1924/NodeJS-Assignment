@@ -1,0 +1,11 @@
+{
+  "name": "assignment_1",
+  "version": "1.0.0",
+  "description": "Package JSON File for assignment 1 using Command npm init",
+  "main": "0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harsh",
+  "license": "ISC"
+}
